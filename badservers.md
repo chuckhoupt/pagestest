@@ -9,9 +9,9 @@ I setup & manage both Minecraft & Discord servers.
 ### Minecraft Servers
 > Past Minecraft servers I've worked with.
 
-![pepediamondsword](https://user-images.githubusercontent.com/105005455/211039957-3de9dca5-e5ae-4072-ac6d-5eabf1b89627.png 'Owner | TheCrib')
+![pepediamondsword](https://user-images.githubusercontent.com/105005455/211039957-3de9dca5-e5ae-4072-ac6d-5eabf1b89627.png "Owner | TheCrib")
 <img src="https://user-images.githubusercontent.com/105005455/211040756-b7dc5a16-2199-4f9f-a629-0f3316840567.png" width="200" title="Manager | ValleyMC">
-![image](https://user-images.githubusercontent.com/105005455/211042059-88cca289-9c5f-43c1-a282-c8bd0e105cac.png 'SolCraft MC | Lead-Developer')
+![image](https://user-images.githubusercontent.com/105005455/211042059-88cca289-9c5f-43c1-a282-c8bd0e105cac.png "SolCraft MC | Lead-Developer")
 <img src="https://user-images.githubusercontent.com/105005455/211045935-fb219133-4aff-4be5-8281-a1445e23ee2c.png" width="200" title="Media | ValleyMC">
 <img src="https://i.imgur.com/PUMGK5d.png" width="200" title="Media | ValleyMC">
 <img src="https://user-images.githubusercontent.com/105005455/213940622-98a9ccee-1955-40ac-bea4-c6dbc3ca148e.png" width="200" title="Developer/Configurator | ArticMC">
